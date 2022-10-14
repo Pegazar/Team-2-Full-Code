@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+/* --- Header Start --- */
+
+.logo {
+  margin-top: 21px;
+}
+
+.margin-top {
+  margin-top: 97px;
+}
+
+.menu {
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.menu li {
+  list-style: none;
+  margin-right: 30px;
+  color: #000;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 115%;
+}
+
+.menu li img {
+  padding-right: 8px;
+}
+
+.header-info h1 {
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 101.38%;
+  color: #000;
+  margin: 29px 0px 24px;
+}
+
+.header-info p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  color: #000000;
+}
+
+.img-box {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.text-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 86px;
+}
+
+.info-box {
+  width: 483.63px;
+  border-radius: 5px;
+  background: #1e4681;
+  padding: 19px 26px;
+}
+
+.info-box p {
+  font-family: "Roboto Slab";
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 130%;
+  color: #fff;
+  letter-spacing: 0.5px;
+}
+
+.info-box .writer {
+  text-align: right;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 130%;
+  color: #ffffff;
+}
+
+/* --- Header End --- */
+
+/* --- Section One Start --- */
+
+.mt-two {
+  margin-top: 173px;
+}
+
+.section-one-info h2 {
+  font-family: "Roboto Slab";
+  margin: 0px 0px 42px;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 101.38%;
+  color: #000000;
+}
+
+.section-one-info p {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  color: #000000;
+}
+
+.img-box-two {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 135px;
+}
+
+.mt-three {
+  margin-top: 75px;
+}
+
+.text-info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.text-info div {
+  width: 150px;
+}
+
+.text-info h3 {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  color: #000000;
+  margin: 0px 0px 15px;
+}
+
+.text-info p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  color: #000000;
+}
+
+/* --- Section One End --- */
+
+/* --- Section Two Start --- */
+
+.section-two {
+  margin: 162px 0px 200px;
+}
+
+.section-two h2 {
+  font-family: "Roboto Slab";
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 101.38%;
+  color: #000000;
+  margin: 0px 0px 116px;
+}
+.sect-info {
+  width: 271px;
+}
+
+.sect-info h3 {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  color: #1e4681;
+  margin: 0px 0px 15px;
+}
+.sect-info p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  color: #000000;
+}
+
+/* --- Section Two End --- */
