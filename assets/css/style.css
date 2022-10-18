@@ -194,3 +194,29 @@ h4 {
 }
 
 /* --- Section Two End --- */
+
+/* --- Section Three Start --- */
+
+.section-three-info h2 {
+  font-family: "Roboto Slab";
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 101.38%;
+  color: #000000;
+  margin: 217px 0px 49px;
+}
+
+.section-three-info ul {
+  padding: 0;
+  width: 662px;
+}
+
+.section-three-info ul li {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  color: #000000;
+  margin-left: 20px;
+}
+
+/* --- Section Three End --- */

@@ -105,10 +105,26 @@
   }
 
   /* --- Section Two End --- */
+
+  /* --- Section Three Start --- */
+
+  .section-three-info h2 {
+    font-size: 32px;
+    margin: 123px 0px 30px;
+  }
+
+  .section-three-info ul {
+    width: 384px;
+  }
+
+  .section-three-info ul li {
+    font-size: 14px;
+  }
+
+  /* --- Section Three End --- */
 }
 
 @media only screen and (max-width: 597px) {
-
   .sect-block {
     display: block;
   }
@@ -234,4 +250,21 @@
   }
 
   /* --- Section Two End --- */
+
+  /* --- Section Three Start --- */
+
+  .section-three-info h2 {
+    font-size: 26px;
+    margin: 75px 0px 22px;
+  }
+
+  .section-three-info ul {
+    width: 300px;
+  }
+
+  .section-three-info ul li {
+    font-size: 12px;
+  }
+
+  /* --- Section Three End --- */
 }
